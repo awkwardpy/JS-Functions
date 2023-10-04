@@ -1,4 +1,3 @@
-```markdown
 # JS-Functions
 
 A collection of JavaScript utility functions for common tasks and calculations.
