@@ -228,4 +228,4 @@ const distance = calculateDistance(1, 2, 4, 6); // Calculates the distance betwe
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
+Awkwardpy project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md)
